@@ -1,4 +1,8 @@
-.nav{
-    display:flex;
-    color:red;
+.air{
+    background-position:center;
+}
+
+.bnb{
+    position: relative;
+    top:200px;
 }
